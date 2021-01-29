@@ -13,3 +13,38 @@
 11. At line 13, it will log finalPrice because it was instantiated outside the for loop as a function variable, so it's accessible anywhere in the function
 12. It will return [50, 100, 150] because the for loop essentially finds the new prices after applying the discount, which occurs on the first line in the for loop. Then, it accounts for rounding with the second line, and pushes it into the discounted array.
 
+13. 
+A) alert(student.name);
+
+B) alert(student["Grad Year"]);
+
+C) student.function();
+
+D) alert(student["Favorite Teacher"].name);
+
+E) alert(student.courseLoad[0]); /* Not sure */
+
+14.
+A) '32' because since '3' is a string and there's a plus sign after, it concatenates the remaining parts as a string
+
+B) 1 because the subtract sign indicates to JS that they are integers
+
+C) 3 because there is an integer before, and the null adds nothing to an integer
+
+D) '3null' because the first thing is a string, so everything else after is interpretated as a string
+
+E) 4 because when there's a + with an integer involved, everything else is interpretated as an integer so true is taken as a 1
+
+F) 0 because both false and null have no value
+
+G) '3undefined' because there's a string and a +
+
+H) NaN because this doesn't follow any of the subtraction rules listed above
+
+15.
+A)
+B)
+C)
+D)
+E)
+F)
