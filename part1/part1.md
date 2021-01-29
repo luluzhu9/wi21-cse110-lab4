@@ -42,9 +42,18 @@ G) '3undefined' because there's a string and a +
 H) NaN because this doesn't follow any of the subtraction rules listed above
 
 15.
-A)
-B)
-C)
-D)
-E)
-F)
+A) True, because there's an int involved so everything is evaluated as an int
+
+B) False, because the ASCII value of '2' is greater than '12'
+
+C) True, because == just checks if if their value is equal
+
+D) False, because === checks for equal value and type and int and string are not the same
+
+E) False, because their values aren't equal either
+
+F) True, because Boolean(2) evaluates to true, which is the same type 
+
+16. == checks for equality in value while === checks for equality in value and type
+
+17. "How are you?" gets printed because 2 is a positive integer /* Not sure*/
