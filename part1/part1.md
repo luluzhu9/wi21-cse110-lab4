@@ -59,3 +59,12 @@ F) True, because Boolean(2) evaluates to true, which is the same type
 17. "How are you?" gets printed because 2 is a positive integer /* Not sure*/
 
 19. The result is the array with values [6, 8, 10] because within modifyArray first the doSomething function occurs, then the callback function where x * 2 occurs happens after. 
+
+21. 
+1
+
+4
+
+3
+
+2
